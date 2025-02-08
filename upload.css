@@ -1,0 +1,14 @@
+#drop_zone {
+    width: 500px;
+    height: 200px;
+    border: 1px solid #999;
+    line-height: 200px;
+    text-align: center;
+    font-size: 20px;
+    margin: 15px auto;
+}
+
+#file_list {
+    width: 500px;
+    margin: 15px auto;
+}
